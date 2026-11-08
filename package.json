@@ -2,6 +2,8 @@
 {
   "name": "gabriel-cine",
   "version": "1.0.0",
+  "description": "Gabriel Cine para Samsung TizenBrew",
+  "main": "main.js",
   "packageType": "app",
   "appName": "Gabriel Cine",
   "appPath": "app/index.html",
