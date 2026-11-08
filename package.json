@@ -1,18 +1,9 @@
+
 {
   "name": "gabriel-cine",
-  "appName": "Gabriel Cine",
   "version": "1.0.0",
-  "description": "Gabriel Cine: abre o app de filmes do Jellyfin direto na TV",
-  "packageType": "mods",
-  "websiteURL": "http://192.168.15.4:8096/web/GabrielCine.html",
-  "main": "main.js",
-  "keys": [
-    "MediaPlayPause",
-    "MediaPlay",
-    "MediaPause",
-    "MediaStop",
-    "MediaFastForward",
-    "MediaRewind"
-  ],
-  "license": "MIT"
+  "packageType": "app",
+  "appName": "Gabriel Cine",
+  "appPath": "app/index.html",
+  "keys": []
 }
